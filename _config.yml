@@ -8,26 +8,26 @@
 
 # Site settings
 # title appears in the header
-title: workshop-template
+title: Applied ML management
 # description and keywords for meta tags
-description: "Create an OER workshop website quick and easy!"
-keywords: "workshops, OER, Open Education, websites, gh-pages, jekyll"
+description: "Machine learning applications are rapidly adopted by industry leaders in any field. The growth of investment in AI-driven solutions created new challenges in managing Data Science and ML resources, people and projects as a whole. The discipline of managing applied machine learning teams, requires a healthy mix between agile product development tool-set and a long term research oriented mindset.  The abilities of investing in deep research while at the same time connecting the outcomes to significant business results create a large knowledge based on management methods and best practices in the field. The Workshop on Applied Machine Learning Management brings together applied research managers from various fields to share methodologies and case-studies on management of ML teams, products, and projects, achieving business impact with advanced AI-methods."
+keywords: "workshops, kdd, applied ml, management"
 
 # author settings for cc-by, appears in the footer
-author: evan will
-pub_year: 2018
-github_username: evanwill
+author: Irina Vasilinetc
+pub_year: 2022
+github_username: ivasilinetc
 
 # add the full url for the github repository
-repo: "https://github.com/evanwill/workshop-template"
+repo: "https://github.com/ivasilinets/kdd-2022-applied_ml_management"
 
 # site urls
 # add the url for the domain,
 # on gh-pages follow the pattern: https://username.github.io 
-url: https://evanwill.github.io
+url: https://ivasilinetc.github.io
 # add subsection of the domain,
 # on gh-pages this is a / followed by the name of the repository
-baseurl: /workshop-template
+baseurl: /kdd-2022-applied_ml_management
 
 # add google analytics if desired (optional)
 # if blank, it will be ignored
